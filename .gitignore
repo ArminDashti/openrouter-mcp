@@ -5,3 +5,6 @@ dist/
 .env.*
 config.json
 models.json
+*.exe
+
+# AUTO-IGNORE-LARGE-FILES (>5MB) â€” managed by github-commit-push-all
